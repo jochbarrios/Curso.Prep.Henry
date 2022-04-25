@@ -244,10 +244,10 @@ deEuroAdolar(250)
 
 function esVocal(Letra){
   if(["a", "e", "i", "o", "u"].includes(Letra.toLowerCase())){
-    console.log("Es vocal")  
+    return "Es vocal" 
   }else
    {
-    console.log("Dato Incorrecto")
+    return "Dato incorrecto"
   }
 }
 

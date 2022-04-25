@@ -1,0 +1,7 @@
+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
+
+
+git push https//<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITARY_NAME>.git
+
+
+git push https//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@github.com/jochbarrios/curso.prep.henry.git
