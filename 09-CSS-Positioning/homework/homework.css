@@ -51,9 +51,9 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     align-items: center;
     justify-content: space-around;
 
+    /* Ejercicio 6. */
+
     flex-direction: row-reverse;
 
 
 }
-
-/* Ejercicio 6. */
